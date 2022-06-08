@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsha
 - 👀 I’m interested in Machine Learning and AI...
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning some tech Tools..
 - 💞️ I’m looking to collaborate on ML and AI projects...
 - 📫 How to reach me - saiharshatamada@gmail.com
 
